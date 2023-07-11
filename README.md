@@ -16,7 +16,7 @@
 
 # 📖 Webpack Template <a name="about-project"></a>
 
-This is a Webpack Template to be prepare for easy use with future projects.
+This Webpack Template is a simple yet powerful webpack boilerplate, which can be used later as a starting point in future projects.
 
 ## 👥 Author <a name="authors"></a>
 
